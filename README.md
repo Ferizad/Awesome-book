@@ -41,32 +41,10 @@ HTML, CSS, JS
   </ul>
 </details>
 
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Localstorage</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
-
-<!-- Features -->
-
 ### Key Features <a name="key-features"></a>
 
-- **[Form]**
-- A form that requires you to input the title of the book plus the author.
-
-- **[List of books]**
-- After you submit the form above, your entry is added to the list of books page
-
-- **[Contact Section]**
-- THisis a form that you can fill if you'd like to contact the creator of this project.
+- **Understand different ways to create objects in JavaScript.**
+- **Create and access properties and methods of JavaScript objects.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -168,6 +146,15 @@ Example:
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[Refactor to use javascript classes]**
+- [ ] **[A complete javascript with changes]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- CONTRIBUTING -->
 
